@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+
+body{
+    
+    background-image: url(/img/bg/naranja-rojo-claro.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+#barra-nav{
+    margin-bottom: 50px;
+}
+
+#news-one{
+    margin-bottom: 50px;
+}
+
+#tarjeta{
+    width: 300px;
+}
+
+#tarjetas-noticias{
+    margin-bottom: 50px;
+}
+
+#news-two{
+    margin-bottom: 50px;
+    
+}
+
+.custom-shape-divider-bottom-1656343413 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
